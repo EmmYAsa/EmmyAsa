@@ -8,5 +8,3 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/-ANGULAR-black?style=for-the-badge&logo=angular)
-
-Follow me
